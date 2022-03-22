@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIAsyncApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            QuotesScreen()
         }
     }
 }
